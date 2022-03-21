@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en el componente <GifGridItem.test /> Debe mostrar <GifGridItem.test /> correctamente 1`] = `
+<div
+  className="card animate__animated animate__zoomIn animate__delay-1s"
+>
+  <img
+    alt="Gif"
+    src="https://media0.giphy.com/media/hryis7A55UXZNCUTNA/giphy.gif?cid=0db280a0zvvdt67i7zxo8cd1791yuy9jpb8odjgdoaw5bi66&rid=giphy.gif&ct=g"
+  />
+</div>
+`;
